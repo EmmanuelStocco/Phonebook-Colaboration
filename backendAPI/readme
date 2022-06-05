@@ -1,3 +1,0 @@
-para criar as tabelas, connect a seu banco de dados local pelo .env 
-e rode o comando - yarn prisma migrate dev //ele vai rodar as migrations
-yarn prisma studio - te permite visualizar tabelas de forma rapida
